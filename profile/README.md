@@ -1,4 +1,4 @@
-# ¡Hola! Bienvenido al GitHub oficial del CICS - CUNOC 👋
+# ¡Hola! Bienvenid@ al GitHub oficial del CICS - CUNOC 👋
 
 ## ¿Quiénes somos?
 Somos el comité oficial de la carrera de Ingeniería en Ciencias y Sistemas de la Universidad San Carlos de Guatemala en el Centro Universitario de Occidente.
